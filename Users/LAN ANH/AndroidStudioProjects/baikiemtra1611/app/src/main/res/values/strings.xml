@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">baikiemtra16-11</string>
+    <string name="a">Lauren’s</string>
+    <string name="a1">Orange Juice</string>
+    <string name="a2">Hello 👋🏻 </string>
+    <string name="a3">Christie Doe</string>
+    <string name="a4">Your Insights</string>
+    <string name="a5">Scan new</string>
+    <string name="a6">Scanned 483</string>
+    <string name="a7">Counterfeits</string>
+    <string name="a8">Success</string>
+    <string name="a9">Directory</string>
+    <string name="s">Counterfeited 32</string>
+    <string name="s1">Checkouts 8</string>
+    <string name="s2">History 26</string>
+    <string name="s3">Explore More</string>
+    <string name="s4">Your Cart 👍🏻</string>
+    <string name="s5">Total</string>
+    <string name="s6">₹ 1,527</string>
+    <string name="s7">Proceed to checkout</string>
+    <string name="s8">Baskin’s</string>
+    <string name="s9">Marley’s</string>
+    <string name="s10">Skimmed Milk</string>
+    <string name="s11">Aloe Vera Lotion</string>
+    <string name="c1">₹ 149</string>
+    <string name="c3">₹ 1249</string>
+    <string name="c2">₹ 129</string>
+    <string name="c4">2</string>
+
+    <string name="c5">Payment Success, Yayy!</string>
+    <string name="c6">we will send order details and invoice in your contact no. and registered email</string>
+
+    <string name="c7">Check Details</string>
+    <string name="c8">Download Invoice</string>
+    <string name="c9">Checkout 💳</string>
+    <string name="c10">₹ 1,527</string>
+    <string name="c11">Including GST (18%)</string>
+    <string name="d1">Credit card</string>
+    <string name="d2">Apple Pay</string>
+    <string name="d3">Card number</string>
+    <string name="d4">5261    4141    0151    8472</string>
+    <string name="d5">Cardholder name</string>
+    <string name="d6">Christie Doe</string>
+    <string name="d7">Expiry date</string>
+    <string name="d8">06 / 2024</string>
+    <string name="d9">915</string>
+    <string name="d10">CVV / CVC</string>
+<string name="d11">?</string>
+    <string name="e1">We will send you an order details to your email after the successfull payment</string>
+    <string name="e2">Pay for the order</string>
+</resources>

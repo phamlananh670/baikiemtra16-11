@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b">12sp</dimen>
+    <dimen name="b1">16sp</dimen>
+    <dimen name="b2">22sp</dimen>
+    <dimen name="b3">20sp</dimen>
+    <dimen name="b4">18sp</dimen>
+    <dimen name="b5">10sp</dimen>
+    <dimen name="b6">14sp</dimen>
+</resources>

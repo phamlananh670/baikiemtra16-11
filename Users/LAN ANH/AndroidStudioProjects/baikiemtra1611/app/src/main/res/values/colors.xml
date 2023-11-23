@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="xam">#C2C2C2</color>
+    <color name="den">#494949</color>
+    <color name="den1">#363636</color>
+    <color name="xam1">#B7B7C1</color>
+    <color name="tr">#F8F8FB</color>
+    <color name="tr1">#FFFFFF</color>
+    <color name="cam">#F08F5F</color>
+    <color name="xam2">#B1B1B1</color>
+    <color name="den2">#363636</color>
+    <color name="xam3">#7A7A7A</color>
+    <color name="xanh">#5A6CF3</color>
+    <color name="xanh1">#5A6CF3</color>
+    <color name="la">#25D482</color>
+    <color name="den3">#3A3C3F</color>
+    <color name="h">#F8F8FB</color>
+    <color name="den4">#424D59</color>
+</resources>
